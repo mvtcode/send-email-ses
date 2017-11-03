@@ -1,0 +1,23 @@
+{
+  "name": "send-ses",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "install": "npm install",
+    "send": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mvtcode/send-ses.git"
+  },
+  "author": "tanmv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mvtcode/send-ses/issues"
+  },
+  "homepage": "https://github.com/mvtcode/send-ses#readme",
+  "dependencies": {
+    "nodemailer": "^4.3.1"
+  }
+}
