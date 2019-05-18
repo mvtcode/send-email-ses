@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "install": "npm install",
-    "send": "node index.js"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -18,6 +17,6 @@
   },
   "homepage": "https://github.com/mvtcode/send-ses#readme",
   "dependencies": {
-    "nodemailer": "^4.3.1"
+    "nodemailer": "^4.7.0"
   }
 }
